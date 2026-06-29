@@ -1,18 +1,17 @@
 <!-- 
   =======================================================================
-  PREMIUM GITHUB PROFILE README
-  THEME: Engine Programmer / Graphics Developer
-  PALETTE: Black, Dark Gray, Purple, Cyan
+  PREMIUM GITHUB PROFILE README 
+  THEME: Systems & Software Engineer (Premium Dark / Minimalist)
   =======================================================================
 -->
 
 <div align="center">
   
   <!-- HERO BANNER -->
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&height=60&lines=ARYAN" alt="Name Typography" /></h1>
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=60&lines=HI,+I+AM+ARYAN+GOYAL" alt="Hi, I am Aryan Goyal" /></h1>
 
   <a href="https://github.com/Aryangoyal01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=8A2BE2&center=true&vCenter=true&width=600&height=40&lines=Graphics+Programming;GPU+Compute;Simulation+Systems;Compiler+Design;Low-Level+Engineering" alt="Typing Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=8A2BE2&center=true&vCenter=true&width=600&height=40&lines=Software+Engineering;Systems+Programming;Full-Stack+Development;Compiler+Design;Algorithmic+Problem+Solving" alt="Typing Roles" />
   </a>
 
   <br>
@@ -21,7 +20,6 @@
   <a href="mailto:aryangoyal0307@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
   </a>
-  <!-- UPDATE THE LINKEDIN URL BELOW WITH YOUR ACTUAL PROFILE ID -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
   </a>
@@ -40,15 +38,10 @@
 <!-- ABOUT ME -->
 <div align="center">
   <h2><code>> whoami</code></h2>
-  <table width="80%" style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        I engineer systems from scratch, thriving in the space where hardware meets software.<br>
-        Currently pursuing a B.Tech in Computer Science at the <b>Indian Institute of Technology Ropar</b>, my focus lies in designing highly scalable architectures, writing high-performance low-level code, and optimizing computational environments.<br><br>
-        Whether it's pushing the boundaries of graphics rendering, constructing intricate compiler pipelines, or rigorously solving algorithmic problems, I build with precision.
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    I am a software and systems engineer who enjoys building robust applications and scalable frameworks from scratch. <br>
+    Currently pursuing a B.Tech in Computer Science at the <b>Indian Institute of Technology Ropar</b>, my engineering focus centers on bridging low-level system efficiency with fluid, full-stack application architectures.
+  </p>
 </div>
 
 <br>
@@ -63,12 +56,12 @@
 <div align="center">
   <h2><code>> current_focus</code></h2>
   
-  <table width="85%" style="border-collapse: collapse; border: 1px solid #1E1E1E;">
-    <tr style="background-color: #0d0d0d;">
-      <td align="center" style="padding: 20px;">
+  <table width="85%" border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center">
         <br>
         <h1><span style="color: #00E5FF;">A E T H E R I S</span></h1>
-        <i>GPU-Native Scientific Simulation Engine & Professional Editor</i>
+        <i>Scientific Simulation Engine & Professional Editor</i>
         <br><br>
         <p align="center">
           <img src="https://img.shields.io/badge/C++20-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++20">
@@ -81,7 +74,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left" style="padding: 20px;">
+      <td align="left">
         <ul>
           <li><b>Architecture:</b> Custom-built simulation framework featuring a modular subsystem architecture for maximum performance.</li>
           <li><b>Editor:</b> Modern, professional desktop interface with a docking UI and interactive Cartesian workspace.</li>
@@ -90,9 +83,10 @@
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #050505;">
-      <td align="center" style="padding: 20px;">
-        <b>Development Roadmap</b><br><br>
+    <tr>
+      <td align="center">
+        <br>
+        <b>Development Progress</b><br><br>
         <code>Foundation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[██████████] ✔</code><br>
         <code>CPU Physics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[██████████] ✔</code><br>
         <code>Pro Editor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[██████████] ✔</code><br>
@@ -100,7 +94,6 @@
         <code>Compute Shaders&nbsp;[███░░░░░░░] ◉</code><br>
         <code>AI Assistance&nbsp;&nbsp;&nbsp;[░░░░░░░░░░] ○</code><br>
         <code>Hand Tracking&nbsp;&nbsp;&nbsp;[░░░░░░░░░░] ○</code><br>
-        <code>Plugin System&nbsp;&nbsp;&nbsp;[░░░░░░░░░░] ○</code><br>
         <br>
       </td>
     </tr>
@@ -117,12 +110,12 @@
 
 <!-- FEATURED PROJECTS GRID -->
 <div align="center">
-  <h2><code>> architecture_&_systems</code></h2>
+  <h2><code>> software_&_systems</code></h2>
 </div>
 
-<table width="100%" align="center" style="border: none;">
+<table width="100%" align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #1E1E1E; padding: 15px;">
+    <td width="50%" valign="top">
       <h3 align="center">Multi-Level Cache Simulator</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++">
@@ -133,7 +126,7 @@
         Full-stack, trace-driven 3-Level (L1/L2/L3) cache simulator. Utilizes Intel PIN for real memory tracing via C++ binaries, feeding into a custom Python/FastAPI backend with a Streamlit interface. Implements FIFO, LRU, Belady (Optimal), and custom stride-aware replacement policies.
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1E1E1E; padding: 15px;">
+    <td width="50%" valign="top">
       <h3 align="center">Clang CFG Optimizer</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++">
@@ -145,8 +138,8 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #1E1E1E; padding: 15px;">
-      <h3 align="center">CLI Autonomous Agent</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Autonomous CLI Agent</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" alt="Python">
         <img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=8A2BE2" alt="OpenAI">
@@ -155,7 +148,7 @@
         Terminal-based AI coding assistant driven by GPT-4o. Leverages Pydantic for strict, structured tool-calling architectures. Capable of executing an autonomous "Thought -> Action -> Result" loop to safely generate files, manage directories, and self-correct through file parsing.
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1E1E1E; padding: 15px;">
+    <td width="50%" valign="top">
       <h3 align="center">Experimental Builds</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JS">
@@ -193,12 +186,14 @@
   <br>
 
   <details>
-    <summary><b>[ Graphics & Libraries ]</b></summary>
+    <summary><b>[ Frameworks & Core Libraries ]</b></summary>
     <br>
     <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=00E5FF" alt="OpenGL" />
     <img src="https://img.shields.io/badge/GLSL-000000?style=for-the-badge&logo=opengl&logoColor=8A2BE2" alt="GLSL" />
     <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" alt="Raylib" />
     <img src="https://img.shields.io/badge/Dear_ImGui-000000?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2" alt="Dear ImGui" />
+    <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00E5FF" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=8A2BE2" alt="Streamlit" />
   </details>
   
   <br>
@@ -209,16 +204,6 @@
     <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=00E5FF" alt="CMake" />
     <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2" alt="Git" />
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00E5FF" alt="Linux" />
-  </details>
-
-  <br>
-
-  <details>
-    <summary><b>[ On The Horizon ]</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=00E5FF" alt="CUDA" />
-    <img src="https://img.shields.io/badge/Vulkan-000000?style=for-the-badge&logo=vulkan&logoColor=8A2BE2" alt="Vulkan" />
-    <img src="https://img.shields.io/badge/OpenCL-000000?style=for-the-badge&logo=khronosgroup&logoColor=00E5FF" alt="OpenCL" />
   </details>
 </div>
 
@@ -233,13 +218,9 @@
 <!-- COMPETITIVE PROGRAMMING & ALGORITHMS -->
 <div align="center">
   <h2><code>> competitive_programming</code></h2>
-  <table width="80%" style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        Rigorous focus on advanced Data Structures, Dynamic Programming paradigms, and intricate Graph Theory.
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    Active participant engineering highly efficient algorithms, utilizing advanced Data Structures, Dynamic Programming, and Graph Theory.
+  </p>
   <br>
   <a href="https://codeforces.com/profile/musicalmegugu">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=8A2BE2" alt="Codeforces" />
@@ -257,15 +238,11 @@
 <!-- MUSIC -->
 <div align="center">
   <h2><code>> auditory_compute</code></h2>
-  <table width="70%" style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <b>Pianist | Composer</b><br><br>
-        <i>Represented IIT Ropar at Inter IIT Cultural Meet 7.0 & 8.0</i><br><br>
-        Beyond computational logic, I architect auditory narratives. I compose complex, long-form piano suites (such as <i>The Boundless Continuum</i>), utilizing intricate modal frameworks like D Aeolian and D Phrygian to build evolving, high-fidelity emotional transitions.
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <b>Pianist | Composer</b><br><br>
+    <i>Represented IIT Ropar at Inter IIT Cultural Meet 7.0 & 8.0</i><br><br>
+    Beyond computational pipelines, I design auditory narratives. I compose complex, long-form piano suites, utilizing modal frameworks like D Aeolian and D Phrygian to map structurally precise atmospheric progressions.
+  </p>
 </div>
 
 <br>
@@ -285,12 +262,12 @@
   
   <br><br>
 
-  <table border="0" align="center" style="border: none;">
+  <table border="1" cellpadding="10" cellspacing="0" align="center">
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Aryangoyal01&show_icons=true&theme=radical&bg_color=000000&title_color=00E5FF&text_color=9f9f9f&icon_color=8A2BE2&border_color=1E1E1E" alt="GitHub Stats" />
       </td>
-      <td align="center" style="border: none;">
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangoyal01&layout=compact&theme=radical&bg_color=000000&title_color=8A2BE2&text_color=9f9f9f&border_color=1E1E1E" alt="Top Languages" />
       </td>
     </tr>
@@ -314,7 +291,6 @@
 <br>
 
 <!-- PINNED REPOSITORY CARDS -->
-<!-- Repository names have been cross-verified with image_a0809e.png for exact character rendering -->
 <div align="center">
   <h2><code>> memory_dump</code></h2>
   
